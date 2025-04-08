@@ -13,3 +13,7 @@ El objetivo de este proyecto es desarrollar una aplicación móvil que facilite 
 - _Mensajería Instantánea_: Implementar un sistema de mensajería similar a WhatsApp para que los padres puedan comunicarse directamente con los profesores.
 - _Interfaz Amigable_: Diseñar una interfaz intuitiva y fácil de usar para padres y profesores.
 - _Seguridad y Privacidad_: Asegurar que la información compartida sea privada y accesible solo para los usuarios autorizados.
+
+### 💭 Motivación del proyecto
+
+Actualmente trabajo en una escuela infantil, es un tema del que tengo bastante conocimiento y donde puedo aportar algunas novedades. En mi ecuela, trabajamos con una aplicación parecida a la de mi proyecto, pero es un tanto compleja para las familias y carece de ciertos elementos que se le podría añadir para mejorar la comunicación y la información de los pequeños. Para ello, con mi proyecto quiero crear una pagina web que contenga todos esos elementos que echamos en falta en nuestra aplicación.  
